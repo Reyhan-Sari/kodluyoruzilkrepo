@@ -5,13 +5,13 @@ Bu Repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 # Installation
 
-Öncelikle projeyi klonlayın.
+Öncelikle projeyi clonlayın.
 ```
 git clone https://gthub.com/Reyhan-Sari/kodluyoruzilkrepo.git
 ```
 
 # Usage
---------------
+
 Projeyi klonladıktan sonra Visual Studio Code programını açıyorsunuz.
 
 Linux İçin:
