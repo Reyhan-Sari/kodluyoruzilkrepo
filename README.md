@@ -21,9 +21,9 @@ code .
 ```
 
 # Contributing
---------------------
+
 Çekme isteği kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açın.
 
 # License 
------------
+***
 [MİT](https://choosealicense.com/licenses/mit/)
